@@ -1,5 +1,4 @@
-pragma solidity *0.6.8;
+pragma solidity ^0.6.8;
 contract MyContract {
-https:
-string public myString = ‘hello world!'; 
+   string public myString = ‘hello world!'; 
 }
